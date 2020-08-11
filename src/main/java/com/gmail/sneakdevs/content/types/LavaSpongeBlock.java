@@ -46,6 +46,7 @@ public class LavaSpongeBlock extends Block {
             int j = (Integer)pair.getRight();
             Direction[] var8 = Direction.values();
             int var9 = var8.length;
+            int spongePower;
 
             for(int var10 = 0; var10 < var9; ++var10) {
                 Direction direction = var8[var10];
@@ -64,7 +65,7 @@ public class LavaSpongeBlock extends Block {
                 }
             }
 
-            if (i > 64) {
+            if (i > 640000) {
                 break;
             }
         }

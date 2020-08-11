@@ -1,6 +1,6 @@
 package com.gmail.sneakdevs.content.blocks;
 
-import com.gmail.sneakdevs.content.types.*;
+import com.gmail.sneakdevs.content.bases.lavasponges.*;
 import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
 import net.minecraft.block.Material;
 import net.minecraft.item.ItemGroup;

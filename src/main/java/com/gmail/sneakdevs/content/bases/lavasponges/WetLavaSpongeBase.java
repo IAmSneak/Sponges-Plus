@@ -1,5 +1,6 @@
-package com.gmail.sneakdevs.content.types;
+package com.gmail.sneakdevs.content.bases.lavasponges;
 
+import com.gmail.sneakdevs.content.types.WetLavaSpongeBlock;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
