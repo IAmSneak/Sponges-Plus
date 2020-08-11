@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "spongesplus:strong_sponge"
+    }
+  },
+  "result": {
+    "item": "spongesplus:advanced_sponge",
+    "count": 1
+  }
+}

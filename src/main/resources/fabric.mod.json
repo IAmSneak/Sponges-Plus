@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "spongesplus",
+  "version": "${version}",
+
+  "name": "Sponges Plus",
+  "description": "Adds 3 sponge tiers for lava and water sponges",
+  "authors": [
+    "IAmTheSneak"
+  ],
+  "contact": {
+    "sources": "https://github.com/IAmSneak/BlipBlock"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.gmail.sneakdevs.SpongesPlus"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

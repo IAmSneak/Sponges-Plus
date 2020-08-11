@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "spongesplus:strong_lava_sponge"
+    }
+  },
+  "result": {
+    "item": "spongesplus:advanced_lava_sponge",
+    "count": 1
+  }
+}

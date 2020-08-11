@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "BSB",
+    "#B#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:fire_charge"
+    },
+    "B": {
+      "item": "minecraft:basalt"
+    },
+    "S": {
+      "item": "minecraft:sponge"
+    }
+  },
+  "result": {
+    "item": "spongesplus:lava_sponge",
+    "count": 1
+  }
+}

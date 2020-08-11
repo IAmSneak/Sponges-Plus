@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "spongesplus:block/strong_wet_sponge"
+    }
+}
